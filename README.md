@@ -1,2 +1,6 @@
-# GuideKR-root-KSK-Change2018
-ICANN 루트 TA(KSK) 교체 기술 가이드 한국어 번안 페이지
+
+# About
+  **루트 KSK(키서명키) 변경에 앞서 캐시DNS서버의 상태 점검 및 조치사항에 대한 가이드 페이지**
+  
+  
+  
